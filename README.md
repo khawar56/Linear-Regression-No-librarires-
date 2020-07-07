@@ -1,7 +1,7 @@
 # Multivariate Linear-Regression-No-librarires-
 Implementation of linear regression (works for _multivariate data_) from scratch in python without any libraries
 
-This implementation is running and tested on 2 mini datasets for other datasets few modifications might be required. 
+This implementation is running and tested on 2 mini datasets, for other datasets few modifications might be required. 
 <br/><br/>
 **Dataset 1** is of some chain of fast food restaurant and has only two attributes namely the population of the city (in 10,000s) in which the restaurant is located and the annual profit made by the restaurant (Profit in $10,000s). Suppose the owner of the chain is considering different cities for opening a new restaurant. The idea is to help the owner, who is considering different cities for opening a new restaurant, in predicting the profits given the population of city 
 </br><br/>
